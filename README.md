@@ -1,5 +1,5 @@
 ## Dylan
 
-🔐 MscEng in Structural Engineering
+🔐 Msc in Structural Engineering
 
 🐍 In love with coding
